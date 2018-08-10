@@ -1,0 +1,23 @@
+    1  R
+    2  cat /home/user/.sudo_as_admin_successful 
+    3  sudo shutdown -h now
+    4  git clone https://github.com/karegapauline/ReproducibleResearchRStudio.git
+    5  status
+    6  git status
+    7  gitignore
+    8  less -git
+    9  less -gitignore
+   10  git add .gitignore
+   11  git add ReproducibleResearchRStudio.Rproj
+   12  git status
+   13  git commit -m "add R project and gitignore"
+   14  git config --global user.email "karegapaul@gmail.com"
+   15  git config --global user.name "karegapauline"
+   16  git push -m "add R project and gitignore"
+   17  git commit -m "add r project and gitignore"
+   18  git push -u origin master
+   19  git remote set-url origin https://github.com/karegapauline/ReproducibleResearchRStudio.git
+   20  git push origin master
+   21  git status
+   22  history
+   23  history>history.txt
